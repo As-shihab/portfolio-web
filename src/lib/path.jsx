@@ -1,0 +1,1 @@
+export  const path = `https://portfolio-t061.onrender.com/`
